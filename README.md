@@ -1,6 +1,6 @@
 # nodet-canil
 
-Projeto feito no módulo do cruso Node + Typescript
+Projeto feito no módulo do curso Node + Typescript
 
 ### Pré requisitos globais:
 
